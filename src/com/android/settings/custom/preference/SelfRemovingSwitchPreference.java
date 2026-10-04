@@ -21,7 +21,8 @@ import android.util.AttributeSet;
 
 import androidx.preference.PreferenceDataStore;
 import androidx.preference.PreferenceViewHolder;
-import androidx.preference.SwitchPreferenceCompat;
+
+import org.sun.custom.preference.SwitchPreferenceCompat;
 
 /**
  * A SwitchPreferenceCompat which can automatically remove itself from the hierarchy
